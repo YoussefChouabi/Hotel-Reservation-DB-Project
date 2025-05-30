@@ -15,6 +15,12 @@ This project involves the creation and management of a hotel reservation databas
 - **Backend**: Python
 - **Frontend**: Streamlit
 
+## Demo
+Watch the interface in action:  
+[![YouTube Demo](https://img.shields.io/badge/YouTube-Demo-red)](https://youtu.be/05b2z9lpdeA?si=InPTX8iDfE6sh_Gv)
+
+---
+
 ## Part 1: Database Creation and Querying
 ### Tasks:
 1. Create the database schema in MySQL Workbench based on the provided MCD.
